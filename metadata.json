@@ -1,0 +1,6 @@
+{
+  "name": "LCC Pro Scoring System",
+  "description": "A professional offline web scoring and buzzer system for Islamic Quiz Competitions (Lomba Cerdas Cermat Islam).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
